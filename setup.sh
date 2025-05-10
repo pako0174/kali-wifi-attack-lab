@@ -16,3 +16,4 @@ make && sudo make install
 
 echo "✅ Done. Please reboot before testing monitor mode."
 
+Add setup script for WiFi lab tools
