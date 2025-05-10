@@ -9,3 +9,9 @@ Educational WiFi Attack Lab using Kali Linux – monitor mode, injection, rogue 
 ├── 05-common-errors-fix.md      ← Fixes for known issues (e.g. Realtek driver, USB not detected)
 
 
+---
+
+## 📚 Documentation
+
+- [🧪 Hardware Compatibility Check](docs/01-hardware-check.md)
+- [🖥️ VM Setup Guide (VirtualBox & VMware)](docs/02-virtualbox-vmware-setup.md)
