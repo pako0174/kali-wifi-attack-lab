@@ -1,5 +1,6 @@
 
 ![ee526088-9474-4249-837a-978f5eeae14d](https://github.com/user-attachments/assets/eadfc382-f8eb-43de-afe0-9defe4e7a371)
+Empowering cybersecurity education through open source research.
 
 # kali-wifi-attack-lab
 Educational WiFi Attack Lab using Kali Linux – monitor mode, injection, rogue AP, and more.
