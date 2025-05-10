@@ -15,4 +15,3 @@ cd rtl8812au
 make && sudo make install
 
 echo "✅ Done. Please reboot before testing monitor mode."
-
